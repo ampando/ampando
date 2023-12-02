@@ -11,7 +11,7 @@
 
 - I am currently learning Ruby on Rails and have completed the Ruby course offered by Learn Enough To Be Dangerous:
 
-<a href="https://www.learnenough.com/certificates/Adrienne"><img src="https://www.learnenough.com/certificates/Adrienne/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+[![Certificate of Completion for Learn Enough Ruby](https://www.learnenough.com/certificates/Adrienne/ruby-tutorial.svg)](https://www.learnenough.com/certificates/Adrienne)
 
 - Pronouns: she/her
 
