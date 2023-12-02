@@ -9,9 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=CS,dotnet,git,angular,kubernetes,linux,nginx,postman,visualstudio,vscode,mysql,azure,powershell)](https://skillicons.dev)
 
-- I am currently learning Ruby on Rails and have completed the Ruby course offered by Learn Enough To Be Dangerous:
+- I am currently learning Ruby on Rails and have completed the Ruby course offered through Learn Enough:
+  
+  [Certificate of Completion for Learn Enough Ruby](https://www.learnenough.com/certificates/Adrienne)
 
-[![Certificate of Completion for Learn Enough Ruby](https://www.learnenough.com/certificates/Adrienne/ruby-tutorial.svg)](https://www.learnenough.com/certificates/Adrienne)
 
 - Pronouns: she/her
 
