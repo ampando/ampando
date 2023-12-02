@@ -9,6 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=CS,dotnet,git,angular,kubernetes,linux,nginx,postman,visualstudio,vscode,mysql,azure,powershell)](https://skillicons.dev)
 
+- I am currently learning Ruby on Rails and have completed the Ruby course offered by Learn Enough To Be Dangerous:
+
+<a href="https://www.learnenough.com/certificates/Adrienne"><img src="https://www.learnenough.com/certificates/Adrienne/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+
 - Pronouns: she/her
 
 - ✨ Fun fact: I used to teach and dance Salsa professionally! 💃 
